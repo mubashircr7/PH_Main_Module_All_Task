@@ -1,0 +1,17 @@
+ h2{
+    text-align: center;
+    color: limegreen;
+    background-color: rgb(227, 226, 206);
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    padding: 10px;
+    margin: 20px;
+}
+h2:hover{
+    background-color: black;
+    color: gold;
+    text-decoration: none;
+    font-style: normal;
+}
